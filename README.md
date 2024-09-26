@@ -1,4 +1,4 @@
-# Image Slider with Dynamic Arrows 🎯
+# Image Slider with Dynamic Arrows 
 
 This is a simple, minimalistic image slider built with **React**. The slider allows users to navigate through images by clicking on the left or right side of the screen. Dynamic arrows follow the cursor and change direction based on the position of the mouse.
 
@@ -10,7 +10,7 @@ This is a simple, minimalistic image slider built with **React**. The slider all
 
 ## Demo
 
-![Slider Demo](react-alastair.jpg)
+![Slider Demo](./public/react-alastair.jpg)
 
 Check out the live demo on [GitHub Pages](https://an4s3crwt.github.io/alastair-react-slider/).
 
