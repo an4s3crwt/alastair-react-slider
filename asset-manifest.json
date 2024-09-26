@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/alastair-react-slider/static/css/main.2e6e7def.css",
+    "main.js": "/alastair-react-slider/static/js/main.734194b6.js",
+    "static/js/732.13e46118.chunk.js": "/alastair-react-slider/static/js/732.13e46118.chunk.js",
+    "static/js/453.03ee769c.chunk.js": "/alastair-react-slider/static/js/453.03ee769c.chunk.js",
+    "static/media/logo.svg": "/alastair-react-slider/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/alastair-react-slider/index.html",
+    "main.2e6e7def.css.map": "/alastair-react-slider/static/css/main.2e6e7def.css.map",
+    "main.734194b6.js.map": "/alastair-react-slider/static/js/main.734194b6.js.map",
+    "732.13e46118.chunk.js.map": "/alastair-react-slider/static/js/732.13e46118.chunk.js.map",
+    "453.03ee769c.chunk.js.map": "/alastair-react-slider/static/js/453.03ee769c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e6e7def.css",
+    "static/js/main.734194b6.js"
+  ]
+}
