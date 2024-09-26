@@ -9,10 +9,9 @@ This is a simple, minimalistic image slider built with **React**. The slider all
 - Minimal and sleek design.
 
 ## Demo
+Check out the live demo on [Live](https://an4s3crwt.github.io/alastair-react-slider/).
 
 ![Slider Demo](./public/react-alastair.jpg)
-
-Check out the live demo on [GitHub Pages](https://an4s3crwt.github.io/alastair-react-slider/).
 
 ## Installation
 
